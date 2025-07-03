@@ -10,7 +10,7 @@
   <a href="https://github.com/your-username">
     <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="www.linkedin.com/in/manigandan-devops">
     <img src="https://img.shields.io/badge/LinkedIn-Manigandan-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
