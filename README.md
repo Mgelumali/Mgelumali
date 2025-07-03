@@ -7,7 +7,7 @@
 <h3 align="center">A passionate DevOps & Cloud Engineer from India. I specialize in automation, CI/CD, containerization, and cloud infrastructure. Always learning, always building!</h3>
 
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/Mgelumali">
     <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" />
   </a>
   <a href="www.linkedin.com/in/manigandan-devops">
@@ -17,9 +17,6 @@
 
 <img align="right" alt="DevOps" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 - 👨‍💻 I work on real-time infrastructure, DevOps, and cloud projects  
 - 🛠️ Troubleshooting, automation, and deployment are my daily bread  
